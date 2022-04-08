@@ -1,4 +1,4 @@
-package theme
+package com.example.findtime.android.theme
 
 import androidx.compose.ui.graphics.Color
 
